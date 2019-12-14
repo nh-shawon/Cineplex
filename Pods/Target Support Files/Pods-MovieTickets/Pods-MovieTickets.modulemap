@@ -1,0 +1,6 @@
+framework module Pods_MovieTickets {
+  umbrella header "Pods-MovieTickets-umbrella.h"
+
+  export *
+  module * { export * }
+}
